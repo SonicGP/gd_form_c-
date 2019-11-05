@@ -1,0 +1,20 @@
+C:\Users\ander\Documents\Visual Studio 2015\Projects\GD1.1\GD1.1\bin\Debug\GD1.1.exe.config
+C:\Users\ander\Documents\Visual Studio 2015\Projects\GD1.1\GD1.1\bin\Debug\GD1.1.exe
+C:\Users\ander\Documents\Visual Studio 2015\Projects\GD1.1\GD1.1\bin\Debug\GD1.1.pdb
+C:\Users\ander\Documents\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1.1.csprojResolveAssemblyReference.cache
+C:\Users\ander\Documents\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1._1.Form1.resources
+C:\Users\ander\Documents\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1._1.Properties.Resources.resources
+C:\Users\ander\Documents\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1.1.csproj.GenerateResource.Cache
+C:\Users\ander\Documents\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1.1.exe
+C:\Users\ander\Documents\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1.1.pdb
+C:\Users\ander\Documents\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1.1.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\GD1.1\GD1.1\bin\Debug\GD1.1.exe.config
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\GD1.1\GD1.1\bin\Debug\GD1.1.exe
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\GD1.1\GD1.1\bin\Debug\GD1.1.pdb
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1.1.csprojAssemblyReference.cache
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1._1.Form1.resources
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1._1.Properties.Resources.resources
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1.1.csproj.GenerateResource.cache
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1.1.csproj.CoreCompileInputs.cache
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1.1.exe
+C:\Users\ander\Documents\Pastas Anderson\Visual Projeto Estudos\Visual Studio 2015\Projects\GD1.1\GD1.1\obj\Debug\GD1.1.pdb
